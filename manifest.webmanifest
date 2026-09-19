@@ -1,0 +1,12 @@
+{
+  "name": "练习簿 · 健身训练记录",
+  "short_name": "练习簿",
+  "description": "离线健身计划与训练记录",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#f5f4ef",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
